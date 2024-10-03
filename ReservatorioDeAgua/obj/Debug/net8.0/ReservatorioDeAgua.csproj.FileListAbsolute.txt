@@ -1,0 +1,5 @@
+c:\Users\Alunos\Documents\bruna\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Alunos\Documents\bruna\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.AssemblyInfoInputs.cache
+c:\Users\Alunos\Documents\bruna\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.AssemblyInfo.cs
+c:\Users\Alunos\Documents\bruna\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.csproj.CoreCompileInputs.cache
+c:\Users\Alunos\Documents\bruna\ReservatorioDeAgua\ReservatorioDeAgua\obj\Debug\net8.0\ReservatorioDeAgua.sourcelink.json
